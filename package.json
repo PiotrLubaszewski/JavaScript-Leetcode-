@@ -1,0 +1,19 @@
+{
+  "name": "javascript-leetcode-",
+  "version": "1.0.0",
+  "description": "some JavaScript Leetcode Solutions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrLubaszewski/JavaScript-Leetcode-.git"
+  },
+  "author": "plubaszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrLubaszewski/JavaScript-Leetcode/issues"
+  },
+  "homepage": "https://github.com/PiotrLubaszewski/JavaScript-Leetcode#readme"
+}
